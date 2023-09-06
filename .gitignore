@@ -1,0 +1,61 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+*.dll
+
+# Virtual Environment
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE settings (PyCharm, VSCode, etc.)
+.idea/
+.vscode/
+
+# macOS .DS_Store files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Test files and coverage
+.coverage
+htmlcov/
+
+# Unit test / coverage reports
+*.cover
+.tox/
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+MANIFEST
+
+# Installers
+*.exe
+*.msi
+*.deb
+*.rpm
+
+# Generated files
+*.gen
+*.gen.go
+
+# Backup files
+*.bak
+
+# Custom files (add your own extensions you want to exclude)
+# *.your_extension
